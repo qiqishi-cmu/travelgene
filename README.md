@@ -1,3 +1,3 @@
 # travelgene
 
-code sharing and evaluating repository for travel gene.
+code sharing and evaluating repository for travel gene..
